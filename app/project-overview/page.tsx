@@ -13,7 +13,7 @@ export default function ProjectOverview() {
     {
       name: "Shruti",
       role: "B.Tech CS III Year",
-      image: "/shruti.png?height=400&width=400",
+      //image: "/shruti.png?height=400&width=400",
       //description: "Expert in earthquake prediction models with 15 years of research experience.",
     },
     {
