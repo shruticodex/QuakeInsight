@@ -201,7 +201,7 @@ export default function ProjectOverview() {
                     <CardContent className="pt-6">
                       <div className="relative h-[200px] mb-4 rounded-lg overflow-hidden">
                         <Image
-                          src={member.image || "/shruti.png"}
+                          src={member.image }
                           alt={member.name}
                           fill
                           className="object-cover"
